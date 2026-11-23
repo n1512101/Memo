@@ -1,0 +1,5 @@
+1つのトークンを多次元の数値ベクトルに変換するプロセスを、単語埋め込み（Word Embedding）と呼びます。
+
+・コンテキスト長（Context length）：Transformerニューラルネットワークに入力されるトークンの数。
+
+・コンテキストウィンドウ長（Context window length）：Transformerニューラルネットワークが許容できる最大トークン数。
